@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "Oystermaran USV"
-  type: "Surface Vessel"
+  type: "Master's Thesis"
   logo: "/assets/images/projects/flippy/intro.jpg"
   overview: "Oystermaran overview"
 
