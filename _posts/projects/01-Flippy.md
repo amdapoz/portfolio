@@ -26,6 +26,6 @@ images:
     alt: "Flippy inside of lab holding an oyster basket"
   - image:
     url: "/assets/images/projects/flippy/nose.png"
-    alt: "Close up of the nose switching mechanism"
+    alt: "Close-up of the nose switching mechanism"
 ---
 <p>Oystermaran main description.</p>
