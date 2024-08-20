@@ -2,13 +2,13 @@
 	display: block;
 	margin: 0 auto;
 	max-width: 70em;
-	padding: 0 3rem;
+	padding: 0 1rem;
 	@include clearfix;
 }
 
 .header {
 	background: $color-white;
-	padding: 3rem 0;
+	padding: 1rem 0;
 }
 
 .logo {
@@ -223,7 +223,7 @@
 		font-weight: 600;
 		margin: 0;
 		line-height: 1;
-		letter-spacing: 0.02rem;
+		letter-spacing: 0.017rem;
 
 	}
 
