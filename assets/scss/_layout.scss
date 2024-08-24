@@ -29,7 +29,7 @@
 
 .content {
 	background: $color-white;
-	padding: 7rem 0 0;
+	padding: 3rem 0 0;
 	margin-bottom: 10rem;  /* Originally 31.24rem */
 	position: relative;
 	top: 0;
@@ -37,7 +37,7 @@
 	z-index: 1;
 
 	@media (min-width: $breakpoint-medium) {
-		padding: 21rem 0 0;
+		padding: 10rem 0 0;
 		margin-bottom: 5rem; /* Originally 23.42rem */
 	}
 }
