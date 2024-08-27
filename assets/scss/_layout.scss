@@ -9,27 +9,6 @@
 .header {
 	background: $color-white;
 	padding: 3rem 0;
-
-	.container {
-		display: flex;
-		align-items: center; /* Centers items vertically */
-	}
-	
-	.logo-container {
-		display: flex;
-		align-items: center; /* Centers items vertically within the container */
-	}
-	
-	.logo-image {
-		height: 1em; /* Makes the image height match the text height */
-		margin-right: 10px; /* Adjust space between image and title */
-	}
-	
-	.logo a {
-		text-decoration: none; /* Optional: removes underline from the link */
-		color: inherit; /* Optional: makes sure the link color matches the surrounding text */
-	}
-	
 }
 
 .logo {
